@@ -26,7 +26,7 @@ app.post('/new-message', function(req, res) {
   // Remember to use your own API toked instead of the one below  "https://api.telegram.org/bot<your_api_token>/sendMessage"
   axios
     .post(
-      'https://api.telegram.org/bot648652237:AAHQ_Tgxl1zSZ6ad2Kelo43JDtNjpXjDg5g/sendMessage',
+      'https://api.telegram.org/bot648652237:AAHQ_Tgxl*****************XjDg5g/sendMessage',
       {
         chat_id: message.chat.id,
         text: 'abbai!!'
@@ -72,7 +72,7 @@ app.post('/new-message', function(req, res) {
   // Remember to use your own API toked instead of the one below  "https://api.telegram.org/bot<your_api_token>/sendMessage"
   axios
     .post(
-      'https://api.telegram.org/bot648652237:AAHQ_Tgxl1zSZ6ad2Kelo43JDtNjpXjDg5g/sendMessage',
+      'https://api.telegram.org/bot648652237:AAHQ_Tgxl*****************XjDg5g/sendMessage',
       {
         chat_id: message.chat.id,
         text: 'Nanna!!'
